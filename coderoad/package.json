@@ -1,0 +1,23 @@
+{
+  "name": "coderoad",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "\\",
+  "scripts": {
+    "test": "\"mochsa\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufmo7med-ux/first-tutorial.git"
+  },
+  "author": "\"\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusufmo7med-ux/first-tutorial/issues"
+  },
+  "homepage": "https://github.com/yusufmo7med-ux/first-tutorial#readme",
+  "dependencies": {
+    "mocha": "^11.7.1",
+    "mocha-tap-reporter": "^0.1.3"
+  }
+}
